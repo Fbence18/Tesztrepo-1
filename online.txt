@@ -1,2 +1,2 @@
-EZ az állomány online készült!
+--> EZ az állomány online készült!<-- online szerkesztés!!
 --> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <-- offline szerkesztés!!
